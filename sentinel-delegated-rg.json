@@ -30,14 +30,24 @@
             },
             "defaultValue": [
                 { 
-                    "principalId": "00000000-0000-0000-0000-000000000000", 
-                    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-                    "principalIdDisplayName": "KONVERTO CSP Resource Group Readers" 
-                }, 
-                { 
-                    "principalId": "00000000-0000-0000-0000-000000000000", 
+                    "principalId": "3c0fe29d-13f1-4343-ab37-275af7c89b86", 
                     "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
                     "principalIdDisplayName": "KONVERTO CSP Azure Lighthouse Management" 
+                }, 
+                { 
+                    "principalId": "60fa1b0d-43f9-4e0c-8e39-6edea32b039b", 
+                    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
+                    "principalIdDisplayName": "KONVERTO CSP Resource Group Readers" 
+                },
+                { 
+                    "principalId": "ecb179b7-90fa-4fac-9202-318346d92acf", 
+                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
+                    "principalIdDisplayName": "KONVERTO CSP Resource Group Contributors" 
+                }, 
+                { 
+                    "principalId": "90fa3f22-ccea-4610-960c-6b656c01039e", 
+                    "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
+                    "principalIdDisplayName": "KONVERTO CSP Resource Group Owners" 
                 }   
             ]
         },
