@@ -43,12 +43,7 @@
                     "principalId": "ecb179b7-90fa-4fac-9202-318346d92acf", 
                     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
                     "principalIdDisplayName": "KONVERTO CSP Resource Group Contributors" 
-                }, 
-                { 
-                    "principalId": "90fa3f22-ccea-4610-960c-6b656c01039e", 
-                    "roleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635",
-                    "principalIdDisplayName": "KONVERTO CSP Resource Group Owners" 
-                }   
+                }
             ]
         },
         "rgName": {
