@@ -7,21 +7,21 @@
             "metadata": {
                 "description": "Specify a unique name for your offer"
             },
-            "defaultValue": "<to be filled out by MSP> Specify a title for your offer"
+            "defaultValue": "KONVERTO CSP - Managed Azure Sentinel"
         },
         "mspOfferDescription": {
             "type": "string",
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             },
-            "defaultValue": "<to be filled out by MSP> Provide a brief description of your offer"
+            "defaultValue": "Azure Sentinel Management by KONVERTO AG"
         },
         "managedByTenantId": {
             "type": "string",
             "metadata": {
                 "description": "Specify the tenant id of the Managed Service Provider"
             },
-            "defaultValue": "<to be filled out by MSP> Provide your tenant id"
+            "defaultValue": "0b45b99e-d4b2-45c5-8527-851fda4fd32a"
         },
         "authorizations": {
             "type": "array",
@@ -32,12 +32,12 @@
                 { 
                     "principalId": "00000000-0000-0000-0000-000000000000", 
                     "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-                    "principalIdDisplayName": "PIM_Group" 
+                    "principalIdDisplayName": "KONVERTO CSP Resource Group Readers" 
                 }, 
                 { 
                     "principalId": "00000000-0000-0000-0000-000000000000", 
                     "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
-                    "principalIdDisplayName": "PIM_Group" 
+                    "principalIdDisplayName": "KONVERTO CSP Azure Lighthouse Management" 
                 }   
             ]
         },
