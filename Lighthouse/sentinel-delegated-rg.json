@@ -33,7 +33,12 @@
                     "principalId": "3c0fe29d-13f1-4343-ab37-275af7c89b86", 
                     "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
                     "principalIdDisplayName": "KONVERTO CSP Azure Lighthouse Management" 
-                }, 
+                },
+                { 
+                    "principalId": "fd5ac04f-2f7b-4990-8141-a68cabc32ad5", 
+                    "roleDefinitionId": "f4c81013-99ee-4d62-a7ee-b3f1f648599a",
+                    "principalIdDisplayName": "KONVERTO CSP Azure Security Insights App Sentinel Contributor" 
+                },
                 { 
                     "principalId": "60fa1b0d-43f9-4e0c-8e39-6edea32b039b", 
                     "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
