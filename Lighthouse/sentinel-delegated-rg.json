@@ -48,6 +48,11 @@
                     "principalId": "ecb179b7-90fa-4fac-9202-318346d92acf", 
                     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
                     "principalIdDisplayName": "KONVERTO CSP Resource Group Contributors" 
+                },
+                { 
+                    "principalId": "75211adf-f853-49ed-a122-20335f4ef005", 
+                    "roleDefinitionId": "cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e",
+                    "principalIdDisplayName": "KONVERTO CSP Support Request Contributor" 
                 }
             ]
         },
